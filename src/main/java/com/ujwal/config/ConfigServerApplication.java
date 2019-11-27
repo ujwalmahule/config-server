@@ -13,3 +13,6 @@ public class ConfigServerApplication {
 	}
 
 }
+
+
+//(exclude = {SecurityAutoConfiguration.class })
